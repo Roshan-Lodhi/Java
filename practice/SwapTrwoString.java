@@ -1,3 +1,4 @@
+package practice;
 public class SwapTrwoString {
 
     public static void main(String[] args) {

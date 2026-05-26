@@ -1,3 +1,4 @@
+package practice;
 import java.util.concurrent.TimeUnit;
 
 public class TypeLyrics {
